@@ -33,6 +33,7 @@ class RandomWords extends StatefulWidget {
 
 class _RandomWordsState extends State<RandomWords> {
   final _suggestions = <WordPair>[];
+  final _biggerFont = const TextStyle(fontSize: 18);
   @override
   Widget build(BuildContext context) {
     return ListView.builder(
@@ -47,6 +48,7 @@ class _RandomWordsState extends State<RandomWords> {
         return ListTile(
           title: Text(
             _suggestions[index].asPascalCase,
+            style: _biggerFont,
           ),
         );
       },
