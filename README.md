@@ -1,6 +1,6 @@
-# name_generator
+# Name Generator
 
-A new Flutter project.
+This Flutter app generates random number of Names using two different words.
 
 ## Getting Started
 
