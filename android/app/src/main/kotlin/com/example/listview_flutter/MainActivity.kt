@@ -1,4 +1,4 @@
-package com.example.listview_flutter
+package com.eleo.namegenerator
 
 import io.flutter.embedding.android.FlutterActivity
 

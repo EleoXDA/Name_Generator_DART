@@ -1,4 +1,4 @@
-# listview_flutter
+# name_generator
 
 A new Flutter project.
 

@@ -1,6 +1,6 @@
 {
-    "name": "listview_flutter",
-    "short_name": "listview_flutter",
+    "name": "name_generator",
+    "short_name": "name_generator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
